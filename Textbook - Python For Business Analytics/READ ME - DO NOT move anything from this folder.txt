@@ -1,0 +1,23 @@
+Python for Business Analytics
+Chase Kusterer - Faculty of Analytics
+Hult International Business School
+https://github.com/chase-kusterer
+
+
+IMPORTANT
+---------
+The Jupyter Notebooks in this folder are reliant on a hidden images folder.
+Moving a notebook out of this folder will result in broken links to all images.
+DO NOT MOVE ANY FILES OUT OF THIS FOLDER to prevent this from happening!
+
+
+BACK UP VERSION
+---------------
+.pdf versions of this textbook are available in this folder. These are meant to
+be a back up version in the event that Jupyter Notebook encounters issues. Note
+that the most common issue with the interactive (.ipynb) version of the text is
+that Notebook extensions are not configured properly.
+
+IF THIS IS THE CASE, make sure to follow the installation instructions on the
+course page as this will also drastically affect your ability to complete
+coursework.
